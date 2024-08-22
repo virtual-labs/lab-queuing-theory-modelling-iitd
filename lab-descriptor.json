@@ -69,14 +69,14 @@
     },
     {
       "name": "Infinite capacity single server queue with general distributed arrivals and exponential service",
-      "short-name": "Infinite-distributed-arrivals",
+      "short-name": "infinite-distributed-arrivals",
       "repo": "https://github.com/virtual-labs/exp-infinite-capacity-single-server-queue-with-general-distributed-arrivals-exponential-serivce-iitd",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Infinite capacity single server queue with exponential arrivals and general distributed service",
-      "short-name": "Infinite-exponential-arrivals",
+      "short-name": "infinite-exponential-arrivals",
       "repo": "https://github.com/virtual-labs/exp-infinite-capacity-single-server-queue-with-exponential-arrivals-general-distributed-service-iitd",
       "tag": "v1.0.0",
       "deploy": true
