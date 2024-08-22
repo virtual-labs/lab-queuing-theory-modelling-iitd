@@ -21,7 +21,7 @@
     {
       "name": "Markovian queues with multiple-server",
       "short-name": "markovian-queues-multiple",
-      "repo": " https://github.com/virtual-labs/exp-markovian-queues-with-multiple-iitd",
+      "repo": "https://github.com/virtual-labs/exp-markovian-queues-with-multiple-iitd",
       "tag": "v1.0.0",
       "deploy": true
     },
@@ -49,7 +49,7 @@
     {
       "name": "Finite capacity single server queue with exponential arrivals and general distributed service",
       "short-name": "exponential-arrivals",
-      "repo": " https://github.com/virtual-labs/exp-finite-capacity-single-server-queue-with-exponential-arrivals-general-distributed-service-iitd",
+      "repo": "https://github.com/virtual-labs/exp-finite-capacity-single-server-queue-with-exponential-arrivals-general-distributed-service-iitd",
       "tag": "v1.0.0",
       "deploy": true
     },
